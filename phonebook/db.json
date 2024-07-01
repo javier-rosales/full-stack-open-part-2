@@ -1,0 +1,14 @@
+{
+  "people": [
+    {
+      "name": "Arto Hellas",
+      "phoneNumber": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "phoneNumber": "39-44-5323523",
+      "id": "2"
+    }
+  ]
+}
